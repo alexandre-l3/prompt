@@ -1,0 +1,2 @@
+┌─[%(?.%F{green}%?%f.%F{red}%?%f)]─[%F{yellow}%n%f@%F{blue}%m%f]─[%F{cyan}%~%f]${vcs_info_msg_0_}
+└──╼ 
